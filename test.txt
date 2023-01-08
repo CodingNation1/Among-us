@@ -1,1 +1,2 @@
-hi
+sync.dev
+load game(0,18 instance)
